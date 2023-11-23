@@ -9,7 +9,7 @@ function App() {
         <footer>
           Coded by{" "}
           <a
-            href="https://github.com/valeria-markish"
+            href="https://github.com/Zaemah"
             target="_blank"
             rel="noreferrer"
           >
@@ -17,7 +17,7 @@ function App() {
           </a>
           , is{" "}
           <a
-            href="https://github.com/valeria-markish/dictionary-react"
+            href="https://github.com/"
             target="_blank"
             rel="noreferrer"
           >
@@ -25,7 +25,7 @@ function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://dictionaryy-react-project.netlify.app/"
+            href="/"
             target="_blank"
             rel="noreferrer"
           >
