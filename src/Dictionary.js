@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import Results from "./Results.js";
 import Form from "./Form.js";
-import dictionaryIcon from "./dictionaryIcon.jpg";
 
 export default function Dictionary() {
   const [word, setWord] = useState("");
@@ -10,7 +9,7 @@ export default function Dictionary() {
   return (
     <div className="Dictionary">
       <h1 className="mb-4">
-        <img src="./dictionaryIcon.jpg" alt="dictionary icon" className="icon-fuid"/>
+        <img src="./public/dictionaryIcon.jpg" alt="dictionary icon" className="icon-fuid"/>
       </h1>
       <div className="section">
         <h2 className="mb-3">What word would you like to look up?</h2>
