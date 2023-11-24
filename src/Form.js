@@ -20,24 +20,12 @@ export default function Form(props) {
   return (
     <div>
       <form onSubmit={handleSubmit}>
-        <div className="row d-flex justify-content-center">
-          <div className="col-9">
-            <input
+          <input
               type="search"
               placeholder="Enter a word..."
               className="form-control-lg w-100 search"
               autoFocus="on"
-              onChange={handleWordChange}
-            ></input>
-          </div>
-          <div className="col-3 mt-1">
-            <input
-              type="submit"
-              value="Search"
-              className="btn button p-2 w-100"
-            ></input>
-          </div>
-        </div>
+              onChange={handleWordChange}/>
       </form>
     </div>
   );
