@@ -17,7 +17,7 @@ function App() {
           </a>
           , is{" "}
           <a
-            href="https://github.com/"
+            href="https://github.com/Zaemah/dictionary"
             target="_blank"
             rel="noreferrer"
           >
@@ -25,7 +25,7 @@ function App() {
           </a>{" "}
           and{" "}
           <a
-            href="/"
+            href="https://zaenicky-dictionary.netlify.app/"
             target="_blank"
             rel="noreferrer"
           >
