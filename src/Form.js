@@ -24,7 +24,6 @@ export default function Form(props) {
               type="search"
               placeholder="Enter a word..."
               className="form-control-lg w-100 search"
-              autoFocus="on"
               onChange={handleWordChange}/>
       </form>
     </div>
