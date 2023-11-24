@@ -84,7 +84,7 @@ footer {
 color: var(--second-color);
 }
 a {
-  color: steel;
+  color: cyan;
 }
 @media (max-width: 800px) {
   .container {
