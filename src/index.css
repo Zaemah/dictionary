@@ -81,9 +81,10 @@ footer {
   bottom: 0;
   margin: 40px 0 30px 0;
   text-align: center;
+color: var(--second-color);
 }
 a {
-  color: var(--second-color);
+  color: var (--forth-color);
 }
 @media (max-width: 800px) {
   .container {
