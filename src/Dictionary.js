@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Results from "./Results.js";
 import Form from "./Form.js";
-import Image from "./dictionaryIcon";
+import Image from "./dictionaryIcon.jpg";
 export default function Dictionary() {
   const [word, setWord] = useState("");
   const [result, setResult] = useState(null);
