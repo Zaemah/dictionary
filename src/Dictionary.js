@@ -9,7 +9,7 @@ export default function Dictionary() {
   return (
     <div className="Dictionary">
        <img src={Image} alt="dictionary icon" className="icon shadow-lg img-fuid"/>
-     <h1 className="mb-4">Dictionery </h1>
+     <h1 className="mb-4">Dictionary </h1>
       <div className="section">
         <h2 className="mb-3">What word would you like to look up?</h2>
         <Form word={word} setWord={setWord} setResult={setResult} />
