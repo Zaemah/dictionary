@@ -9,7 +9,7 @@ export default function Dictionary() {
   return (
     <div className="Dictionary">
       <h1 className="mb-4">
-        <img src={Image} alt="dictionary icon" className="icon-fuid"/>
+        <img src={Image} alt="dictionary icon" className="icon img-fuid"/>
       </h1>
       <div className="section">
         <h2 className="mb-3">What word would you like to look up?</h2>
